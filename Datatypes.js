@@ -14,7 +14,5 @@ console.log(string);
 var course2 = ['html', 'js'];
 console.log(course2);
 //any
-var x;
-20, 30, 50;
-;
+var x = [10, 20, 30, 50];
 console.log(x);
